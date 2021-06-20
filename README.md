@@ -10,6 +10,23 @@
 
 <br />
 
+## 😀 참가 맴버
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/KoEonYack"><img src="https://avatars.githubusercontent.com/u/28642484?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Covenant</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/esesil"><img src="https://avatars.githubusercontent.com/u/72774479?v=4?s=100" width="100px;" alt=""/><br /><sub><b>esesil</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jihyunhillpark"><img src="https://avatars.githubusercontent.com/u/29705409?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jihyunPark</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/leesg619"><img src="https://avatars.githubusercontent.com/u/52132929?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lee SeokGeun
+</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/tongnamuu"><img src="https://avatars.githubusercontent.com/u/33937684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tongnamuu</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yu-jin-song"><img src="https://avatars.githubusercontent.com/u/74666378?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yujin Song
+</b></sub></a><br /></td>
+</tr>
+</table>
+
+<br />
+
 ## 📅 일정
 
 <table>
@@ -17,6 +34,7 @@
         <tr>
             <th> 일시 </th>
             <th> 주제 </th>
+            <th> 스터디 자료 </th>
         </tr>
     </thead>
     <tbody>        
@@ -26,12 +44,18 @@
                 섹션 1. 객체 지향 설계와 스프링 <br />
                 섹션 2. 스프링 핵심 원리 이해1 - 예제 만들기
             </td>
+            <td> 
+            -
+            </td>
         </tr>
         <tr>
             <td> Week2 (7/03 10:30) </td>
             <td> 
                 섹션 3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용 <br />
                 섹션 4. 스프링 컨테이너와 스프링 빈 
+            </td>
+            <td> 
+            -
             </td>
         </tr>
         <tr>
@@ -40,18 +64,27 @@
                 섹션 5. 싱글톤 컨테이너 <br />
                 섹션 6. 컴포넌트 스캔
             </td>
-        </tr>
-        <tr>
-            <td> Week4 (7/17) 10:30 </td>
             <td> 
-                섹션 7. 의존관계 자동 주입 <br />
+            -
             </td>
         </tr>
         <tr>
-            <td> Week5 (7/24) 10:30 </td>
+            <td> Week4 (7/17 10:30) </td>
+            <td> 
+                섹션 7. 의존관계 자동 주입 <br />
+            </td>
+            <td> 
+            -
+            </td>
+        </tr>
+        <tr>
+            <td> Week5 (7/24 10:30) </td>
             <td> 
                 섹션 8. 빈 생명주기 콜백 <br /> 
                 섹션 9. 빈 스코프
+            </td>
+            <td> 
+            -
             </td>
         </tr>
     </tbody>
