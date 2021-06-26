@@ -45,7 +45,7 @@
                 섹션 2. 스프링 핵심 원리 이해1 - 예제 만들기
             </td>
             <td> 
-            -
+            covenant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week1/covenant/%EB%A1%9C%EC%BC%93%EC%8A%A4%ED%84%B0%EB%94%94_OT.pdf">OT</a>, <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week1/covenant/week1_%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4_%EC%82%AC%EB%9E%91%ED%95%9C_SOLID.pdf">스프링이 사랑한 SOLID</a>
             </td>
         </tr>
         <tr>
