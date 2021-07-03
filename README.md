@@ -56,7 +56,7 @@
                 섹션 4. 스프링 컨테이너와 스프링 빈 
             </td>
             <td> 
-            -
+                coveant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_1.pdf">[PART 1]</a>, <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_2.pdf">[PART 2]</a>
             </td>
         </tr>
         <tr>
