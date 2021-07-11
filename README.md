@@ -46,7 +46,7 @@
             </td>
             <td> 
             covenant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week1/covenant/%EB%A1%9C%EC%BC%93%EC%8A%A4%ED%84%B0%EB%94%94_OT.pdf">OT</a>, <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week1/covenant/week1_%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4_%EC%82%AC%EB%9E%91%ED%95%9C_SOLID.pdf">스프링이 사랑한 SOLID</a><br />
-            jihyunPark: <a href="https://jihyunhillpark.github.io/springframework/Spring-fundamental1/"> 스프링 기본 핵심원리 </a>
+            jihyunPark: <a href="https://jihyunhillpark.github.io/springframework/Spring-fundamental1/"> 스프링 기본 핵심원리 </a><br />
             esesil: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week1/esesil/week1_%ED%98%84%EC%8B%A4%EC%84%B8%EA%B3%84%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EA%B0%9D%EC%B2%B4%EC%9D%B4%ED%95%B4.pdf">현실세계를 통한 객체이해</a><br />
             </td>
         </tr>
@@ -57,7 +57,7 @@
                 섹션 4. 스프링 컨테이너와 스프링 빈 
             </td>
             <td> 
-                coveant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_1.pdf">[PART 1]</a>, <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_2.pdf">[PART 2]</a>
+                coveant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_1.pdf">[PART 1]</a>, <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_2.pdf">[PART 2]</a><br />
                 esesil: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/esesil/week2_%EB%B9%88%20%ED%83%90%EA%B5%AC%ED%95%98%EA%B8%B0.pdf">bean 탐구하기</a><br />
             </td>
         </tr>
