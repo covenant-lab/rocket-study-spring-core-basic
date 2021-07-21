@@ -59,8 +59,7 @@
             <td> 
                 coveant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_1.pdf">[PART 1]</a>, <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/covenant/week2_%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_2.pdf">[PART 2]</a><br />
                 esesil: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week2/esesil/week2_%EB%B9%88%20%ED%83%90%EA%B5%AC%ED%95%98%EA%B8%B0.pdf">bean 탐구하기</a><br />
-                jihyunPark: <a href="https://jihyunhillpark.github.io/springframework/spring-fundamental3-copy/"> [PART 1] </a><br />
-                jihyunPark: <a href="https://jihyunhillpark.github.io/springframework/spring-fundamental4/"> [PART 2] </a><br />
+                jihyunPark: <a href="https://jihyunhillpark.github.io/springframework/spring-fundamental3-copy/"> [PART 1] </a>, <a href="https://jihyunhillpark.github.io/springframework/spring-fundamental4/"> [PART 2] </a><br />
             </td>
         </tr>
         <tr>
