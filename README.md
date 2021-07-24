@@ -88,7 +88,7 @@
                 섹션 9. 빈 스코프
             </td>
             <td> 
-            covenant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week3/esesil/week3_Custom-Annotation%20%EC%9E%91%EC%84%B1%EB%B2%95.pdf"> 로켓자바: 성능 튜닝 마인드 확립</a><br />
+            covenant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week5/covenant/%EB%A1%9C%EC%BC%93%EC%9E%90%EB%B0%94_part1_%EC%84%B1%EB%8A%A5_%EA%B7%B8%EB%A6%AC%EA%B3%A0_%ED%8A%9C%EB%8B%9D.pdf"> 로켓자바: 성능 튜닝 마인드 확립</a><br />
             </td>
         </tr>
     </tbody>
