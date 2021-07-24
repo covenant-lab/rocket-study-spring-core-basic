@@ -17,11 +17,11 @@
     <td align="center"><a href="https://github.com/KoEonYack"><img src="https://avatars.githubusercontent.com/u/28642484?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Covenant</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/esesil"><img src="https://avatars.githubusercontent.com/u/72774479?v=4?s=100" width="100px;" alt=""/><br /><sub><b>esesil</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/jihyunhillpark"><img src="https://avatars.githubusercontent.com/u/29705409?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jihyunPark</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/leesg619"><img src="https://avatars.githubusercontent.com/u/52132929?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lee SeokGeun
+    <td align="center"><a href="https://github.com/osj3474"><img src="https://avatars.githubusercontent.com/u/42775225?v=4?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sangjin Oh
 </b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/tongnamuu"><img src="https://avatars.githubusercontent.com/u/33937684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tongnamuu</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yu-jin-song"><img src="https://avatars.githubusercontent.com/u/74666378?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yujin Song
-</b></sub></a><br /></td>
+    <!-- <td align="center"><a href="https://github.com/yu-jin-song"><img src="https://avatars.githubusercontent.com/u/74666378?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yujin Song
+</b></sub></a><br /></td> -->
 </tr>
 </table>
 
@@ -78,7 +78,7 @@
                 섹션 7. 의존관계 자동 주입 <br />
             </td>
             <td> 
-            -
+                (Self Study)
             </td>
         </tr>
         <tr>
@@ -88,7 +88,7 @@
                 섹션 9. 빈 스코프
             </td>
             <td> 
-            -
+            covenant: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week3/esesil/week3_Custom-Annotation%20%EC%9E%91%EC%84%B1%EB%B2%95.pdf"> 로켓자바: 성능 튜닝 마인드 확립</a><br />
             </td>
         </tr>
     </tbody>
@@ -128,7 +128,7 @@ A, B 타입 중에서 원하는 방식으로 준비하시면 됩니다.
 <hr />
 
 <div align=center>
-    <h3> 로켓학습 | 스프링 정복반 </h3>
+    <h3> 로켓학습 </h3>
 </div>
 
 <hr />
