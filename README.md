@@ -70,6 +70,7 @@
             </td>
             <td> 
             esesil: <a href="https://github.com/covenant-lab/rocket-study-spring-core-basic/blob/master/week3/esesil/week3_Custom-Annotation%20%EC%9E%91%EC%84%B1%EB%B2%95.pdf">Custom Annotation 작성법</a><br />
+            jihyunPark: https://velog.io/@jihyunhillpark/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC%EC%A0%95%EB%A6%AC5-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88
             </td>
         </tr>
         <tr>
